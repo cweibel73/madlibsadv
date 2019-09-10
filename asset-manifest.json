@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/madlibsadv/static/css/main.2cce8147.chunk.css",
+    "main.js": "/madlibsadv/static/js/main.5417006e.chunk.js",
+    "main.js.map": "/madlibsadv/static/js/main.5417006e.chunk.js.map",
+    "runtime~main.js": "/madlibsadv/static/js/runtime~main.930bd454.js",
+    "runtime~main.js.map": "/madlibsadv/static/js/runtime~main.930bd454.js.map",
+    "static/js/2.27328f66.chunk.js": "/madlibsadv/static/js/2.27328f66.chunk.js",
+    "static/js/2.27328f66.chunk.js.map": "/madlibsadv/static/js/2.27328f66.chunk.js.map",
+    "index.html": "/madlibsadv/index.html",
+    "precache-manifest.dc268841df8a89239bdd51570563956e.js": "/madlibsadv/precache-manifest.dc268841df8a89239bdd51570563956e.js",
+    "service-worker.js": "/madlibsadv/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/madlibsadv/static/css/main.2cce8147.chunk.css.map"
+  }
+}
